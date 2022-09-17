@@ -22,3 +22,4 @@ def is_win(player, opponent):
 
 print(play())
 print("thanks for playing")
+print("bobby banks")
